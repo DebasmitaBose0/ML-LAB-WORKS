@@ -32,7 +32,7 @@ ML-LAB-WORKS/
 ```
 
 ## Author
-Debasmita
+Debasmita Bose, B.Tech CSE (3rd yr)
 
 ---
 
