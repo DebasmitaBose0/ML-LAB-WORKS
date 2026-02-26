@@ -36,4 +36,3 @@ Debasmita Bose, B.Tech CSE (3rd yr)
 
 ---
 
-> For details on each assignment, see the comments at the top of each `.py` file.
